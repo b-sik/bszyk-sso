@@ -1,0 +1,13 @@
+{
+  "name": "bszyk/sso",
+  "description": "Custom SSO plugin for WordPress utilizing Simple-JWT-Login.",
+  "type": "plugin",
+  "license": "GPL-3.0",
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload":{
+      "psr-4": {
+          "BSZYK_SSO\\" : "includes/"
+      }
+  }
+}
