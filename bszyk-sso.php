@@ -1,8 +1,6 @@
 <?php
 /**
- * EA SSO WordPress Plugin
- *
- * @package bszyk-sso
+ * Custom SSO for WordPress
  *
  * Plugin Name: Custom SSO for WordPress
  * Plugin URI: https://bszyk.dev
@@ -10,6 +8,8 @@
  * Author: Brian Siklinski
  * Version: 0.1.0
  * Author URI: https://bszyk.dev
+ *
+ * @package bszyk-sso
  */
 
 namespace BSZYK_SSO;
